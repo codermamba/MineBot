@@ -1,0 +1,1 @@
+This is a GUI and camera enabled mine robot with human and harmful gas detectors inside a mine that can be of great help in case of mine collapse , chemical explosion etc.
